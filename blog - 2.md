@@ -1,5 +1,5 @@
-# Blog Topic 3:
-## How Generics Make TypeScript Powerful and Reusable
+## Blog Topic 3:
+# How Generics Make TypeScript Powerful and Reusable
 
 ## Introduction
 
