@@ -7,7 +7,7 @@ In Typescript, handling unpredictable data is common. Developers often use `any`
 
 ---
 
-Why `any` is a Type Safety Hole
+## Why `any` is a Type Safety Hole
 
 The `any` type disables Typescript's type checking completely.
 
