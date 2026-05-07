@@ -1,5 +1,5 @@
-# Blog Topic 1:
-## Why "unknown" is the Safer Choice Over "any" in Typescript
+## Blog Topic 1:
+# Why "unknown" is the Safer Choice Over "any" in Typescript
 
 ## Introduction
 
